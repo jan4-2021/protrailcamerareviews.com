@@ -1,0 +1,33 @@
+/* 
+* Plugin Name: WP Review
+* Plugin URI: http://mythemeshop.com/plugins/wp-review/
+*/
+[class^="icon-"], [class*=" icon-"] {
+  font-family: 'font-icons';
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1em;
+}
+ 
+.icon-star { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe800;&nbsp;'); }
+/*
+     FILE ARCHIVED ON 17:23:18 Jan 27, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 10:52:44 Jan 04, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  RedisCDXSource: 1.119
+  esindex: 0.014
+  exclusion.robots: 0.182
+  LoadShardBlock: 328.816 (3)
+  CDXLines.iter: 24.149 (3)
+  PetaboxLoader3.datanode: 306.155 (4)
+  load_resource: 113.761
+  PetaboxLoader3.resolve: 26.156
+  exclusion.robots.policy: 0.168
+  captures_list: 358.538
+*/
